@@ -31,6 +31,11 @@ const config: Config = {
   				'900': '#273E4F',
   				'950': '#1C2D3A'
   			},
+			"discord-background": "#36393f",
+			"discord-brand-color": "#5865f2",
+			"discord-gray": "#36393f",
+			"discord-text": "#dcddde",
+			"discord-timestamp": "#72767d",
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
   			card: {
