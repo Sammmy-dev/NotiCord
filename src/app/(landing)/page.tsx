@@ -1,8 +1,8 @@
-import DopeButton from "../components/DopeButton";
-import Heading from "../components/Heading"
-import MaxWidthWrapper from "../components/MaxWidthWrapper"
+import DopeButton from "../../components/DopeButton";
+import Heading from "../../components/Heading"
+import MaxWidthWrapper from "../../components/MaxWidthWrapper"
 import { Check } from 'lucide-react';
-import Nav from "../components/Nav";
+import Nav from "../../components/Nav";
 
 const page = () => {
   return (

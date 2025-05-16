@@ -1,8 +1,10 @@
 import { cn } from "@/utils"
 import { ReactNode } from "react"
 
-interface HeadingProps extends HTMLAttributes<HTMLHeadingElement> {
+// extends HTMLAttributes<HTMLHeadingElement>
+interface HeadingProps {
     children?: ReactNode
+    className: string
 }
 
 const Heading = ({children, className, ...props}:HeadingProps) => {
