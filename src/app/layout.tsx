@@ -14,7 +14,7 @@ const eb_garamond = EB_Garamond({
 
 export const metadata: Metadata = {
   title: "NotiCord",
-  description: "Swift API notification",
+  description: "Swift notification API ",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 }
 
